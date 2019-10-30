@@ -7,4 +7,6 @@ fun main(){
     println(question)
     val answerBinary:Boolean = true
     println(answerBinary)
+    print(add(2,3))
+
 }
